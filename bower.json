@@ -3,7 +3,8 @@
   "description": "Simple wrapper to making working with typeahead.js with browserify easier",
   "main": "index.js",
   "authors": [
-    "nikvdp"
+    "nikvdp",
+    "adamtomat"
   ],
   "license": "ISC",
   "keywords": [
